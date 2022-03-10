@@ -1,0 +1,29 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.container-fluid {
+  padding: 5% 10%;
+  background-color: #eee;
+  border: 1px solid;
+  border-radius: 15px;
+}
+.head {
+  background-color: #f5ba13;
+  margin: auto -16px;
+  padding: 16px 32px;
+
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+}
+
+h1 {
+  color: #fff;
+  font-family: "McLaren", cursive;
+  font-size: 3rem;
+}
+
+.ant-table {
+  border: 1px solid;
+
+  font-size: 1.2rem;
+}
